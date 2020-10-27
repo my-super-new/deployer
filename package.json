@@ -1,9 +1,8 @@
 {
-  "name": "@my-super-new/wow-sander",
+  "name": "@my-super-new/another-one",
   "version": "0.1.0",
   "repository" : {
     "type" : "git",
-    "url": "ssh://git@github.com/my-super-new/deployer.git",
-    "directory": "packages/example"
+    "url": "ssh://git@github.com/my-super-new/deployer.git"
   }
 }
